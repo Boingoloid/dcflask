@@ -3,6 +3,6 @@ from flask import Flask
 appDC = Flask(__name__)
 
 
-@app.route('/')
+@appDC.route('/')
 def index():
-    return "Hello World!"
+    return "Hello most cruel World!"
