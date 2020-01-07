@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d50a26f4-3b13-4625-a55b-a8887be4aa68" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appDC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appDCPYFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/appDCPYFile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RActiveInterpreterProjectConfigurable" />
   </component>
@@ -47,8 +48,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576888394589</updated>
+      <workItem from="1578419181165" duration="385000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="581" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577239505861">
@@ -59,5 +64,10 @@
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
     <state x="397" y="176" key="SettingsEditor/0.23.1792.1028@0.23.1792.1028" timestamp="1577239490121" />
+    <state x="573" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1578032924935">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="573" y="370" key="com.intellij.ide.util.TipDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1577733204464" />
+    <state x="573" y="371" key="com.intellij.ide.util.TipDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1578032924935" />
   </component>
 </project>
