@@ -1,8 +1,8 @@
 from flask import Flask
 
-app = Flask(__name__)
+appDC = Flask(__name__)
 
 
-@app.route('/')
+@appDC.route('/')
 def index():
     return "Hello Cruel World"
